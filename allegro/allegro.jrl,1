@@ -1,0 +1,179 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Mar 30 14:34:30 2022
+\t (00:00:00)         Host=HAMIT-PC User=Hamit Pid=11380 CPUs=8
+\t (00:00:00) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/PROJELER/PCB_DONANIM/METO_STM_CRY_V0/allegro/METO_STM_CRY_V0_33.brd
+\i (00:00:03) trapsize 8234
+\i (00:00:04) trapsize 8421
+\i (00:00:04) trapsize 8876
+\i (00:00:04) trapsize 9663
+\i (00:00:04) generaledit 
+\i (00:00:05) roam y 96 
+\i (00:00:05) roam y 96
+\i (00:00:07) roam y 96 
+\i (00:00:07) roam y 96
+\i (00:00:07) roam y 96 
+\i (00:00:07) roam y 96
+\i (00:00:07) roam y 96 
+\i (00:00:07) roam y 96
+\i (00:00:07) roam y 96 
+\i (00:00:07) roam y 96
+\i (00:00:07) roam y 96 
+\i (00:00:07) roam y 96
+\i (00:00:08) roam x 96 
+\i (00:00:08) roam x 96
+\i (00:00:08) roam x 96 
+\i (00:00:08) roam x 96
+\i (00:00:08) roam x 96 
+\i (00:00:08) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:09) roam x 96 
+\i (00:00:09) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:10) roam x 96 
+\i (00:00:10) roam x 96
+\i (00:00:11) zoom out 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 6500.742 448.181
+\i (00:00:11) trapsize 19327
+\i (00:00:11) zoom out 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out 6500.741 448.181
+\i (00:00:11) trapsize 38654
+\i (00:00:12) roam x 96 
+\i (00:00:12) roam x 96
+\i (00:00:12) roam x 96 
+\i (00:00:12) roam x 96
+\i (00:00:12) roam x 96 
+\i (00:00:12) roam x 96
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:14) zoom in 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 8721.387 -2524.276
+\i (00:00:14) trapsize 19327
+\i (00:00:14) zoom in 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 8721.387 -2524.276
+\i (00:00:14) trapsize 9663
+\i (00:00:14) roam x 96 
+\i (00:00:14) roam x 96
+\i (00:00:14) roam x 96 
+\i (00:00:14) roam x 96
+\i (00:00:14) roam x 96 
+\i (00:00:14) roam x 96
+\i (00:00:14) roam x 96 
+\i (00:00:14) roam x 96
+\i (00:00:14) roam x 96 
+\i (00:00:14) roam x 96
+\i (00:00:15) roam x 96 
+\i (00:00:15) roam x 96
+\i (00:00:15) roam x 96 
+\i (00:00:15) roam x 96
+\i (00:00:15) roam x 96 
+\i (00:00:15) roam x 96
+\i (00:00:18) pick grid 11129.503 -2147.404
+\t (00:00:18) last pick:  11130.000 -2147.000
+\i (00:00:19) zoom in 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 10205.684 -2524.276
+\i (00:00:19) trapsize 4832
+\i (00:00:19) zoom in 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 10205.683 -2524.276
+\i (00:00:19) trapsize 2416
+\i (00:00:20) roam y -96 
+\i (00:00:20) roam y -96
+\i (00:00:20) roam y -96 
+\i (00:00:20) roam y -96
+\i (00:00:20) roam y -96 
+\i (00:00:20) roam y -96
+\i (00:00:20) roam y -96 
+\i (00:00:20) roam y -96
+\i (00:00:21) roam y -96 
+\i (00:00:21) roam y -96
+\i (00:00:21) roam y -96 
+\i (00:00:21) roam y -96
+\i (00:00:34) roam y 96 
+\i (00:00:34) roam y 96
+\i (00:00:34) roam y 96 
+\i (00:00:34) roam y 96
+\i (00:00:34) roam y 96 
+\i (00:00:34) roam y 96
+\i (00:00:35) roam y -96 
+\i (00:00:35) roam y -96
+\i (00:00:35) roam y -96 
+\i (00:00:35) roam y -96
+\i (00:00:35) roam y -96 
+\i (00:00:35) roam y -96
+\i (00:00:37) roam y -96 
+\i (00:00:37) roam y -96
+\i (00:00:37) roam y -96 
+\i (00:00:37) roam y -96
+\i (00:00:37) roam y -96 
+\i (00:00:37) roam y -96
+\i (00:00:47) open 
+\i (00:00:59) fillin "D:\PROJELER\PCB_DONANIM\EPTS_PERFANL_BL5_L86_V2\allegro\EPTS_PERFANL_BL5_L86_V2_6.brd"
+\i (00:00:59) cd "D:\PROJELER\PCB_DONANIM\EPTS_PERFANL_BL5_L86_V2\allegro"
+\t (00:00:59) Opening existing design...
+\i (00:00:59) trapsize 10698
+\t (00:00:59)     Journal end - Wed Mar 30 14:35:29 2022

@@ -1,0 +1,1362 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Mar-29-2022 at 18:12:30 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='METO_STM_CRY_V0';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP POL_CAPPOL2D250LS150034_CAP':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS405584@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins405584@discrete.\cap pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins405584@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP POL_CAPPOL2D250LS150034_CAP':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9088553@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9088553@discrete.\cap pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9088553@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP POL_CAPPOL2D250LS150034_CAP':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9088617@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9088617@discrete.\cap pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9088617@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR NON-POL_SMC0805_10U/6':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9095906@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9095906@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9095906@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9095936@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9095936@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9095936@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR NON-POL_SMC0805_10U/6':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9073383@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9073383@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9073383@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9073401@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9073401@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9073401@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9073419@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9073419@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9073419@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9073437@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9073437@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9073437@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9073455@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9073455@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9073455@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9073473@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9073473@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9073473@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP POL_CAPPOL2D250LS150034_CAP':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9087665@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9087665@discrete.\cap pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9087665@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR NON-POL_SMC0805_10U/6':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9073491@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9073491@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9073491@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9063283@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9063283@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9063283@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAPACITOR NON-POL_SMC0603_18P':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9063475@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9063475@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9063475@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAPACITOR NON-POL_SMC0603_18P':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9063763@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9063763@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9063763@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAPACITOR NON-POL_SMC0603_100N':
+ ROOM='Vdd5V';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076576@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076576@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076576@discrete.\capacitor non-pol.normal\(chips)',
+ ROOM='Vdd5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAPACITOR NON-POL_SMC1210_22UF/':
+ ROOM='Vdd5V';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076720@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076720@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076720@discrete.\capacitor non-pol.normal\(chips)',
+ ROOM='Vdd5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAPACITOR NON-POL_SMC0603_100N':
+ ROOM='Vdd5V';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076918@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076918@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076918@discrete.\capacitor non-pol.normal\(chips)',
+ ROOM='Vdd5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAPACITOR NON-POL_SMC0805_10U/6':
+ ROOM='Vdd5V';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076528@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076528@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076528@discrete.\capacitor non-pol.normal\(chips)',
+ ROOM='Vdd5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAPACITOR NON-POL_SMC0805_10U/6':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9079633@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9079633@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9079633@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAPACITOR NON-POL_SMC0603_100N':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9079651@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9079651@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9079651@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP POL_CAPPOL2D250LS150034_CAP':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9087811@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9087811@discrete.\cap pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9087811@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAPACITOR NON-POL_SMC0805_10U/6':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9079713@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9079713@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9079713@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 '6TPB33M_CAP_6TPB33M_22UF/25VDV/':
+ ROOM='PowerIn';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9135011@6TPB33M.6TPB33M.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9135011@\6tpb33m\.\6tpb33m.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9135011@\6tpb33m\.\6tpb33m.normal\(chips)',
+ ROOM='PowerIn',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAPACITOR NON-POL_SMC1210_22UF/':
+ ROOM='PowerIn';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9135027@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9135027@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9135027@discrete.\capacitor non-pol.normal\(chips)',
+ ROOM='PowerIn',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAPACITOR NON-POL_SMC0805_10U/2':
+ ROOM='PowerIn';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9135045@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9135045@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9135045@discrete.\capacitor non-pol.normal\(chips)',
+ ROOM='PowerIn',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP POL_CAPPOL2D250LS150034_CAP':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9087937@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9087937@discrete.\cap pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9087937@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP POL_CAPPOL2D250LS150034_CAP':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9088063@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9088063@discrete.\cap pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9088063@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP POL_CAPPOL2D250LS150034_CAP':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9088425@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9088425@discrete.\cap pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9088425@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP POL_CAPPOL2D250LS150034_CAP':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS405756@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins405756@discrete.\cap pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins405756@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP POL_CAPPOL2D250LS150034_CAP':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9088489@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9088489@discrete.\cap pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9088489@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP POL_CAPPOL2D250LS150034_CAP':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS405816@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins405816@discrete.\cap pol.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins405816@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE ZENER_SMDSOD323SD05T_1N41':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9092249@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9092249@discrete.\diode zener.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins9092249@discrete.\diode zener.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D10 'DIODE TVS_SMDO214AA21SMAJ33A_SM':
+ ROOM='Vdd5V';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076672@DISCRETE.DIODE TVS.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076672@discrete.\diode tvs.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076672@discrete.\diode tvs.normal\(chips)',
+ ROOM='Vdd5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D11 'LED_LED_0603_LED-GREEN':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9079861@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9079861@discrete.\led.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9079861@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D12 'LED_LED_0603_LED-BLUE':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9107837@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9107837@discrete.\led.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins9107837@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D13 'LED_LED_0603_LED-BLUE':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9108046@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9108046@discrete.\led.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins9108046@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE ZENER_SMDSOD323SD05T_1N41':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9093099@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9093099@discrete.\diode zener.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins9093099@discrete.\diode zener.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE TVS BI-DIR_SMDSOD323PESD5':
+ ROOM='rs232';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9098113@DISCRETE.DIODE TVS BI-DIR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9098113@discrete.\diode tvs bi-dir.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9098113@discrete.\diode tvs bi-dir.normal\(chips)',
+ ROOM='rs232',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE TVS BI-DIR_SMDSOD323PESD5':
+ ROOM='rs232';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9097894@DISCRETE.DIODE TVS BI-DIR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9097894@discrete.\diode tvs bi-dir.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9097894@discrete.\diode tvs bi-dir.normal\(chips)',
+ ROOM='rs232',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE ZENER_SMDSOD323SD05T_1N41':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9051081@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9051081@discrete.\diode zener.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page6_ins9051081@discrete.\diode zener.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_LED_0603_LED-BLUE':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9071447@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9071447@discrete.\led.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9071447@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7 'LED_LED_0603_LED-RED':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9075082@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9075082@discrete.\led.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9075082@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 '1N5819M/CYL_SMDO214AA21_MBRA340':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076696@IRT94 V2.1N5819M/CYL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076696@\irt94 v2\.\1n5819m/cyl.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076696@\irt94 v2\.\1n5819m/cyl.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 '1N5819M/CYL_SMDO214AA21_MBRA340':
+ ROOM='Vdd5V';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076402@IRT94 V2.1N5819M/CYL.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076402@\irt94 v2\.\1n5819m/cyl.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076402@\irt94 v2\.\1n5819m/cyl.normal\(chips)',
+ ROOM='Vdd5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 '0ZCK0100FF2E_FUSC2113X180N_0ZCK':
+ ROOM='usb2';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9135551@0ZCK0100FF2E.0ZCK0100FF2E.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9135551@\0zck0100ff2e\.\0zck0100ff2e.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9135551@\0zck0100ff2e\.\0zck0100ff2e.normal\(chips)',
+ ROOM='usb2',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB1 'INDUCTOR/SM_SMR0603_MPZ1608S601':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9079547@DISCRETE.INDUCTOR/SM.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9079547@discrete.\inductor/sm.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9079547@discrete.\inductor/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FL1 'ACM1211-102-2PL-TL01_FIL_ACM121':
+ ROOM='Vdd5V';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076426@ACM1211-102-2PL-TL01.ACM1211-102-2PL-TL01.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076426@\acm1211-102-2pl-tl01\.\acm1211-102-2pl-tl01.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076426@\acm1211-102-2pl-tl01\.\acm1211-102-2pl-tl01.normal\(chips)',
+ ROOM='Vdd5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'FH_2X20SG_FH2X20SG_FH_2X20SG':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9084288@FH_2X20SG.FH_2X20SG.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9084288@fh_2x20sg.\fh_2x20sg.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page1_ins9084288@fh_2x20sg.\fh_2x20sg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J10 '282811-4_TE_282811-4_282811-4':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS404699@282811-4.282811-4.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins404699@\282811-4\.\282811-4.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins404699@\282811-4\.\282811-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J11 '282811-4_TE_282811-4_282811-4':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9093569@282811-4.282811-4.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9093569@\282811-4\.\282811-4.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9093569@\282811-4\.\282811-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J12 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS404947@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins404947@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins404947@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J13 '282811-4_TE_282811-4_282811-4':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9090990@282811-4.282811-4.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9090990@\282811-4\.\282811-4.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9090990@\282811-4\.\282811-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J14 '282811-4_TE_282811-4_282811-4':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9093603@282811-4.282811-4.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9093603@\282811-4\.\282811-4.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9093603@\282811-4\.\282811-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J15 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9088109@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9088109@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9088109@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J16 '282811-4_TE_282811-4_282811-4':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9091058@282811-4.282811-4.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9091058@\282811-4\.\282811-4.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9091058@\282811-4\.\282811-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J17 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9088409@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9088409@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9088409@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J18 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9088473@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9088473@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9088473@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J19 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS404973@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins404973@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins404973@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'FH_2X20SG_FH2X20SG_FH_2X20SG':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9084380@FH_2X20SG.FH_2X20SG.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9084380@fh_2x20sg.\fh_2x20sg.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page1_ins9084380@fh_2x20sg.\fh_2x20sg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J20 '282811-4_TE_282811-4_282811-4':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS404719@282811-4.282811-4.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins404719@\282811-4\.\282811-4.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins404719@\282811-4\.\282811-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J21 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9088537@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9088537@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9088537@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J22 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9088601@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9088601@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9088601@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J23 '5787956-1_TE_5787956-1_5787956-':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9096686@5787956-1.5787956-1.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9096686@\5787956-1\.\5787956-1.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9096686@\5787956-1\.\5787956-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J24 'CON5_CON5X140PROG_CON5':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9070017@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9070017@connector.\con5.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9070017@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J25 '5787956-1_TE_5787956-1_5787956-':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9104743@5787956-1.5787956-1.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9104743@\5787956-1\.\5787956-1.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9104743@\5787956-1\.\5787956-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J26 '5787956-1_TE_5787956-1_5787956-':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9105109@5787956-1.5787956-1.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9105109@\5787956-1\.\5787956-1.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9105109@\5787956-1\.\5787956-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J27 '5787956-1_TE_5787956-1_5787956-':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9105213@5787956-1.5787956-1.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9105213@\5787956-1\.\5787956-1.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9105213@\5787956-1\.\5787956-1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J28 'CON8_HEADER_2_54MM_2X4_CON8':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9132558@CONNECTOR.CON8.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9132558@connector.\con8.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9132558@connector.\con8.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J29 'CON5_CON5X140_CON5':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9132600@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9132600@connector.\con5.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9132600@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS404869@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins404869@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins404869@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J30 'CON5_CON5X140_CON5':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9133344@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9133344@connector.\con5.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9133344@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J31 'CON2_CON2X140_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9133611@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9133611@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9133611@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J32 'CON2_CON2X140_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9133760@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9133760@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9133760@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9091682@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9091682@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9091682@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 '282811-4_TE_282811-4_282811-4':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS404659@282811-4.282811-4.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins404659@\282811-4\.\282811-4.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins404659@\282811-4\.\282811-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9091708@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9091708@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9091708@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS404895@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins404895@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins404895@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J8 '282811-4_TE_282811-4_282811-4':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS404679@282811-4.282811-4.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins404679@\282811-4\.\282811-4.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins404679@\282811-4\.\282811-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J9 'CON2_2LI_KLEMENS_200MILS_CON2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS404921@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins404921@connector.\con2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins404921@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ K1 'JQC-3F-_T73_2_JQC3FT731Z12VDC_J':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS405934@METASOFT_STEP_CON.JQC-3F-_T73_2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins405934@metasoft_step_con.\jqc-3f-_t73_2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins405934@metasoft_step_con.\jqc-3f-_t73_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ K2 'JQC-3F-_T73_2_JQC3FT731Z12VDC_J':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9093077@METASOFT_STEP_CON.JQC-3F-_T73_2.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9093077@metasoft_step_con.\jqc-3f-_t73_2.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins9093077@metasoft_step_con.\jqc-3f-_t73_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_SML0603_10UH':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9062765@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9062765@discrete.\inductor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9062765@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR/SM_SLF10145NEW_10U/SLF':
+ ROOM='Vdd5V';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076480@IRT94 V2.INDUCTOR/SM.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076480@\irt94 v2\.\inductor/sm.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076480@\irt94 v2\.\inductor/sm.normal\(chips)',
+ ROOM='Vdd5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ LS1 'CCG-1206_CUI_CCG-1206_CCG-1206':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9051125@CCG-1206.CCG-1206.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9051125@\ccg-1206\.\ccg-1206.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page6_ins9051125@\ccg-1206\.\ccg-1206.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'BC817_SOT95P230X110-3N_BC817':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9092297@BC817.BC817.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9092297@bc817.\bc817.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins9092297@bc817.\bc817.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'BC817_SOT95P230X110-3N_BC817':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9093157@BC817.BC817.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9093157@bc817.\bc817.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins9093157@bc817.\bc817.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'BC817_SOT95P230X110-3N_BC817':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9051057@BC817.BC817.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9051057@bc817.\bc817.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page6_ins9051057@bc817.\bc817.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR/SM_0_SMR0603_1K':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9092323@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9092323@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins9092323@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR/SM_0_SMR1206_100R':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9096969@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9096969@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9096969@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR/SM_0_SMR1206_100R':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9098429@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9098429@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9098429@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9097192@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9097192@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9097192@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR/SM_0_SMR0603_33R':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9051103@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9051103@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page6_ins9051103@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR/SM_0_SMR0603_1K':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9051145@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9051145@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page6_ins9051145@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR/SM_0_SMR0603_180R':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9051167@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9051167@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page6_ins9051167@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_SMR0603_470R':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9071429@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9071429@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9071429@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_SMR0603_470R':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9075064@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9075064@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9075064@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR/SM_0_SMR1206_OR':
+ ROOM='Vdd5V';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076504@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076504@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076504@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ ROOM='Vdd5V',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR_SMR1206_0R':
+ ROOM='GndMatch';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076456@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076456@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076456@discrete.\resistor.normal\(chips)',
+ ROOM='GndMatch',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR/SM_0_SMR0603_1K':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9093191@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9093191@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins9093191@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR_SMR1206_0R':
+ ROOM='GndMatch';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076552@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076552@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076552@discrete.\resistor.normal\(chips)',
+ ROOM='GndMatch',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR_SMR1206_0R':
+ ROOM='GndMatch';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076600@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076600@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076600@discrete.\resistor.normal\(chips)',
+ ROOM='GndMatch',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'RESISTOR_SMR1206_0R':
+ ROOM='GndMatch';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076624@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076624@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076624@discrete.\resistor.normal\(chips)',
+ ROOM='GndMatch',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'RESISTOR_SMR1206_0R':
+ ROOM='GndMatch';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9076648@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9076648@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9076648@discrete.\resistor.normal\(chips)',
+ ROOM='GndMatch',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'RESISTOR_SMR0603_100K':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9079695@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9079695@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9079695@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'RESISTOR/SM_0_SMR0603_6K8':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9079677@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9079677@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9079677@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'RESISTOR_SMR0603_100K':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9079759@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9079759@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9079759@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'RESISTOR_SMR0603_470R':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9079781@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9079781@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9079781@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR/SM_0_SMR0603_2K2':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9079843@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9079843@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9079843@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'RESISTOR/SM_0_SMR1206_100R':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9104821@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9104821@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9104821@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9097144@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9097144@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9097144@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'RESISTOR/SM_0_SMR1206_100R':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9105187@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9105187@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9105187@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'RESISTOR/SM_0_SMR1206_100R':
+ ROOM='Buzzer';
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9105291@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9105291@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9105291@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ ROOM='Buzzer',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'RESISTOR_SMR0603_470R':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9107819@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9107819@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins9107819@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'RESISTOR_SMR0603_470R':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9108024@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9108024@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page4_ins9108024@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'RESISTOR_SMR0603_1K5':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9108369@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9108369@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9108369@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'RESISTOR_SMR0603_1K5':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9108436@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9108436@discrete.\resistor.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page3_ins9108436@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9096329@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9096329@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9096329@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9096299@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9096299@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9096299@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9096219@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9096219@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9096219@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR/SM_0_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9096269@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9096269@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9096269@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR/SM_0_SMR1206_100R':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9096935@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9096935@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9096935@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR/SM_0_SMR1206_120R':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9097924@PDKS PLCC44.RESISTOR/SM_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9097924@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9097924@\pdks plcc44\.\resistor/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'MAX485ESA+_SOIC127P600X175-8N_M':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9095837@MAX485ESA+.MAX485ESA+.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9095837@\max485esa+\.\max485esa+.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page5_ins9095837@\max485esa+\.\max485esa+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MDBT50Q-1MV2_0_XCVR_MDBT50Q-1MV':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9062537@EPTS_PERFANLY_SD_BL5.MDBT50Q-1MV2_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9062537@epts_perfanly_sd_bl5.\mdbt50q-1mv2_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9062537@epts_perfanly_sd_bl5.\mdbt50q-1mv2_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'AP7165-SPG-13_0_SOIC127P600X163':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9079511@ALY_PERFANL_B.AP7165-SPG-13_0.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9079511@aly_perfanl_b.\ap7165-spg-13_0.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page8_ins9079511@aly_perfanl_b.\ap7165-spg-13_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL/SM_XTAL_CM315_SMD_CM315':;
+
+SECTION_NUMBER 1
+ '@METO_STM_CRY_V0.SCHEMATIC1(SCH_1):INS9063641@DISCRETE.CRYSTAL/SM.NORMAL(CHIPS)':
+ C_PATH='@meto_stm_cry_v0.schematic1(sch_1):ins9063641@discrete.\crystal/sm.normal\(chips)',
+ P_PATH='@meto_stm_cry_v0.schematic1(sch_1):page7_ins9063641@discrete.\crystal/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

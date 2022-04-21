@@ -1,0 +1,33 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  METO_STM_CRY_V0_33.brd*
+G04 Film Name:    Meto_stm_cry_v0_0BOL*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 17.2-P019*
+G04 Origin Date:  Wed Mar 30 13:20:09 2022*
+G04 *
+G04 Layer:  BOARD GEOMETRY/DESIGN_OUTLINE*
+G04 *
+G04 Offset:    (0.000 0.000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     1.000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.001*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X20000Y-406457D02*
+X1050000D01*
+X1070000Y-386457D01*
+Y133543D01*
+X1050000Y153543D01*
+X20000D01*
+X0Y133543D01*
+Y-386457D01*
+X20000Y-406457D01*
+M02*

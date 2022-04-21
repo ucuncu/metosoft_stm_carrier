@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : METO_STM_CRY_V0_33.brd                        )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Mar 30 13:10:32 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in SHAPE (no segment)
+  class = BOUNDARY
+  subclass = BOTTOM 
+  WARNING(SPMHA1-62): Illegal parent identifier.
+   Error was fixed, object was deleted.
+
+ERROR: in SHAPE (no segment)
+  class = BOUNDARY
+  subclass = TOP 
+  WARNING(SPMHA1-62): Illegal parent identifier.
+   Error was fixed, object was deleted.
+
+WARNING:   WARNING(SPMHDB-42): Run batch DRC to regenerate DRC errs.
+
+1 warnings, 2 errors detected, 2 errors  fixed.

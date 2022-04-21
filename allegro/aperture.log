@@ -1,0 +1,409 @@
+Wed Mar 30 13:19:56 2022				Page     1
+
+Photoplot log file
+Results from aperture table.
+
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+LINE               1            D367
+LINE           3.937            D371
+LINE               4            D368
+LINE               5            D370
+LINE               6            D365
+LINE           7.874            D158
+LINE               8            D369
+LINE              10            D366
+LINE              11            D289
+LINE          11.811            D72
+LINE              12            D102
+LINE          15.748            D372
+LINE          17.717            D280
+LINE          19.685            D228
+LINE              22            D296
+LINE          23.622            D309
+LINE              25            D271
+LINE          25.591            D113
+LINE          27.559            D185
+LINE          30.512            D110
+LINE          31.496            D178
+LINE              36            D236
+LINE              40            D239
+LINE          55.118            D330
+LINE           59.37            D20
+LINE          66.929            D14
+LINE          67.244            D23
+LINE          74.803            D17
+LINE             420            D124
+CIRCLE            12            D129
+CIRCLE            16            D130
+CIRCLE            19            D131
+CIRCLE            20            D132
+CIRCLE        21.657            D190
+CIRCLE            26            D136
+CIRCLE            27            D135
+CIRCLE        29.528            D64
+CIRCLE        31.102            D63
+CIRCLE          31.5            D65
+CIRCLE            35            D134
+CIRCLE            36            D133
+CIRCLE        43.307            D62
+CIRCLE            50            D34
+CIRCLE            51            D364
+CIRCLE        51.496            D38
+CIRCLE        55.039            D118
+CIRCLE            60            D36
+Wed Mar 30 13:19:56 2022				Page     2
+
+Photoplot log file
+Results from aperture table.
+
+CIRCLE        60.236            D30
+CIRCLE            61            D56
+CIRCLE            62            D312
+CIRCLE        62.992            D54
+CIRCLE            65            D81
+CIRCLE        66.929            D55
+CIRCLE            67            D313
+CIRCLE        70.866            D43
+CIRCLE            73            D57
+CIRCLE            75            D262
+CIRCLE        76.772            D45
+CIRCLE            77            D82
+CIRCLE        82.677            D50
+CIRCLE        98.425            D173
+CIRCLE           100            D60
+CIRCLE           105            D203
+CIRCLE           110            D48
+CIRCLE           111            D47
+CIRCLE           118            D261
+CIRCLE           120            D49
+CIRCLE           130            D333
+CIRCLE           135            D33
+CIRCLE           140            D61
+CIRCLE           150            D105
+CIRCLE           158            D258
+CIRCLE           165            D259
+CIRCLE           170            D260
+CIRCLE           200            D127
+CIRCLE           205            D128
+CIRCLE       244.094            D35
+SQUARE             1   0.00000            D97
+SQUARE        19.685   0.00000            D94
+SQUARE            32   0.00000            D255
+SQUARE            50   0.00000            D91
+SQUARE        51.496   0.00000            D26
+SQUARE        55.039   0.00000            D119
+SQUARE         59.37   0.00000            D27
+SQUARE            60   0.00000            D37
+SQUARE            61   0.00000            D58
+SQUARE            62   0.00000            D244
+SQUARE        62.992   0.00000            D52
+SQUARE            65   0.00000            D79
+SQUARE        66.929   0.00000            D53
+SQUARE        70.866   0.00000            D44
+SQUARE            73   0.00000            D59
+SQUARE        76.772   0.00000            D46
+SQUARE            77   0.00000            D80
+SQUARE        82.677   0.00000            D51
+SQUARE           100   0.00000            D201
+SQUARE           105   0.00000            D202
+SQUARE           127   0.00000            D101
+SQUARE         127.9   0.00000            D100
+Wed Mar 30 13:19:56 2022				Page     3
+
+Photoplot log file
+Results from aperture table.
+
+RECTANGLE      7.874    19.685   0.00000  D162
+RECTANGLE      7.874    27.559   0.00000  D252
+RECTANGLE         10        24   0.00000  D67
+RECTANGLE         11        70   0.00000  D288
+RECTANGLE      11.81     29.53   0.00000  D219
+RECTANGLE     11.811     13.78   0.00000  D155
+RECTANGLE     11.811    25.591   0.00000  D170
+RECTANGLE     11.811    31.496   0.00000  D122
+RECTANGLE     11.811    55.118   0.00000  D120
+RECTANGLE         12        18   0.00000  D212
+RECTANGLE     12.598    26.378   0.00000  D168
+RECTANGLE     13.701        55   0.00000  D89
+RECTANGLE      13.78    11.811   0.00000  D154
+RECTANGLE     15.748    23.622   0.00000  D31
+RECTANGLE     15.748     53.15   0.00000  D116
+RECTANGLE         16        20   0.00000  D215
+RECTANGLE         18        12   0.00000  D213
+RECTANGLE         18    27.748   0.00000  D99
+RECTANGLE         19        56   0.00000  D70
+RECTANGLE     19.685     7.874   0.00000  D161
+RECTANGLE     19.685    35.433   0.00000  D93
+RECTANGLE     19.685    44.244   0.00000  D199
+RECTANGLE     19.685    61.024   0.00000  D232
+RECTANGLE         20        16   0.00000  D214
+RECTANGLE         22        56   0.00000  D68
+RECTANGLE         22        91   0.00000  D209
+RECTANGLE     23.228    62.205   0.00000  D153
+RECTANGLE     23.622    15.748   0.00000  D32
+RECTANGLE     23.622    41.339   0.00000  D211
+RECTANGLE     23.622    61.024   0.00000  D304
+RECTANGLE         24        10   0.00000  D66
+RECTANGLE         25        70   0.00000  D270
+RECTANGLE         25        94   0.00000  D300
+RECTANGLE     25.197       100   0.00000  D41
+RECTANGLE     25.591    11.811   0.00000  D169
+RECTANGLE     26.378    12.598   0.00000  D167
+RECTANGLE     27.559     7.874   0.00000  D251
+RECTANGLE     27.559    27.559   0.00000  D137
+RECTANGLE     27.748        18   0.00000  D98
+RECTANGLE         28        33   0.00000  D352
+RECTANGLE      29.53     11.81   0.00000  D218
+RECTANGLE     31.496    11.811   0.00000  D123
+RECTANGLE     31.496    48.819   0.00000  D148
+RECTANGLE     31.496    98.425   0.00000  D76
+RECTANGLE     31.496   102.362   0.00000  D324
+RECTANGLE         32        37   0.00000  D354
+RECTANGLE         32        78   0.00000  D253
+RECTANGLE     32.283    103.15   0.00000  D322
+RECTANGLE         33        28   0.00000  D353
+RECTANGLE         33        57   0.00000  D88
+RECTANGLE         34        40   0.00000  D314
+RECTANGLE         34        50   0.00000  D316
+Wed Mar 30 13:19:56 2022				Page     4
+
+Photoplot log file
+Results from aperture table.
+
+RECTANGLE         35       110   0.00000  D362
+RECTANGLE     35.433    19.685   0.00000  D92
+RECTANGLE     35.433    55.118   0.00000  D189
+RECTANGLE     35.433    59.055   0.00000  D192
+RECTANGLE     35.433    98.425   0.00000  D249
+RECTANGLE         37        32   0.00000  D355
+RECTANGLE         37        53   0.00000  D358
+RECTANGLE         37        67   0.00000  D346
+RECTANGLE     37.402    41.732   0.00000  D257
+RECTANGLE     37.402    98.425   0.00000  D144
+RECTANGLE      39.37    47.244   0.00000  D183
+RECTANGLE      39.37    62.992   0.00000  D165
+RECTANGLE         40        34   0.00000  D315
+RECTANGLE         40        50   0.00000  D341
+RECTANGLE         40        55   0.00000  D223
+RECTANGLE         40        80   0.00000  D221
+RECTANGLE         41        57   0.00000  D360
+RECTANGLE         41        71   0.00000  D348
+RECTANGLE     41.339    23.622   0.00000  D210
+RECTANGLE     41.339   149.606   0.00000  D321
+RECTANGLE     41.732    37.402   0.00000  D256
+RECTANGLE         44        96   0.00000  D246
+RECTANGLE     44.244    19.685   0.00000  D200
+RECTANGLE         45        55   0.00000  D294
+RECTANGLE         45        65   0.00000  D292
+RECTANGLE         45       140   0.00000  D234
+RECTANGLE     45.276    59.055   0.00000  D141
+RECTANGLE     45.276    86.614   0.00000  D142
+RECTANGLE     45.669    47.244   0.00000  D146
+RECTANGLE     45.669    49.213   0.00000  D138
+RECTANGLE     47.244     39.37   0.00000  D184
+RECTANGLE     47.244    45.669   0.00000  D147
+RECTANGLE     47.244    51.181   0.00000  D182
+RECTANGLE         48        53   0.00000  D350
+RECTANGLE     48.819    31.496   0.00000  D149
+RECTANGLE     49.213    45.669   0.00000  D139
+RECTANGLE     49.213   112.205   0.00000  D207
+RECTANGLE         50        34   0.00000  D317
+RECTANGLE         50        40   0.00000  D340
+RECTANGLE         50        60   0.00000  D248
+RECTANGLE         50        90   0.00000  D85
+RECTANGLE         50       115   0.00000  D334
+RECTANGLE     51.181    47.244   0.00000  D181
+RECTANGLE     51.181   110.236   0.00000  D176
+RECTANGLE         52       142   0.00000  D277
+RECTANGLE         53        37   0.00000  D359
+RECTANGLE         53        48   0.00000  D351
+RECTANGLE      53.15    15.748   0.00000  D117
+RECTANGLE     53.886    101.13   0.00000  D227
+RECTANGLE         55    13.701   0.00000  D90
+RECTANGLE         55        40   0.00000  D222
+RECTANGLE         55        45   0.00000  D295
+Wed Mar 30 13:19:56 2022				Page     5
+
+Photoplot log file
+Results from aperture table.
+
+RECTANGLE     55.118    11.811   0.00000  D121
+RECTANGLE     55.118    35.433   0.00000  D188
+RECTANGLE     55.118    70.866   0.00000  D328
+RECTANGLE     55.118   133.858   0.00000  D243
+RECTANGLE     55.512     71.26   0.00000  D326
+RECTANGLE         56        19   0.00000  D71
+RECTANGLE         56        22   0.00000  D69
+RECTANGLE         57        33   0.00000  D87
+RECTANGLE         57        41   0.00000  D361
+RECTANGLE         57        73   0.00000  D356
+RECTANGLE         57        87   0.00000  D344
+RECTANGLE      57.48   213.386   0.00000  D286
+RECTANGLE     57.984    85.543   0.00000  D308
+RECTANGLE         59        63   0.00000  D157
+RECTANGLE     59.055    35.433   0.00000  D191
+RECTANGLE     59.055    45.276   0.00000  D140
+RECTANGLE     59.055    61.024   0.00000  D108
+RECTANGLE         60        50   0.00000  D247
+RECTANGLE         60        60   0.00000  D233
+RECTANGLE         60        72   0.00000  D264
+RECTANGLE         60       103   0.00000  D29
+RECTANGLE     61.024    19.685   0.00000  D231
+RECTANGLE     61.024    23.622   0.00000  D303
+RECTANGLE     61.024    59.055   0.00000  D109
+RECTANGLE     62.205    23.228   0.00000  D152
+RECTANGLE     62.992     39.37   0.00000  D166
+RECTANGLE     62.992    74.803   0.00000  D174
+RECTANGLE     62.992    84.646   0.00000  D193
+RECTANGLE     62.992   106.299   0.00000  D10
+RECTANGLE         63        59   0.00000  D156
+RECTANGLE         63        75   0.00000  D266
+RECTANGLE         63        94   0.00000  D95
+RECTANGLE         64       100   0.00000  D77
+RECTANGLE         65        45   0.00000  D293
+RECTANGLE         65        77   0.00000  D268
+RECTANGLE         67        37   0.00000  D347
+RECTANGLE         69        71   0.00000  D275
+RECTANGLE         70        11   0.00000  D287
+RECTANGLE         70        25   0.00000  D269
+RECTANGLE     70.866    55.118   0.00000  D329
+RECTANGLE     70.866   102.362   0.00000  D195
+RECTANGLE         71        41   0.00000  D349
+RECTANGLE         71        69   0.00000  D274
+RECTANGLE      71.26    55.512   0.00000  D327
+RECTANGLE         72        60   0.00000  D263
+RECTANGLE         73        57   0.00000  D357
+RECTANGLE     74.803    62.992   0.00000  D175
+RECTANGLE         75        63   0.00000  D265
+RECTANGLE         77        65   0.00000  D267
+RECTANGLE         78        32   0.00000  D254
+RECTANGLE       78.7      90.5   0.00000  D343
+RECTANGLE         80        40   0.00000  D220
+Wed Mar 30 13:19:56 2022				Page     6
+
+Photoplot log file
+Results from aperture table.
+
+RECTANGLE     84.646    62.992   0.00000  D194
+RECTANGLE     85.543    57.984   0.00000  D307
+RECTANGLE     86.614    45.276   0.00000  D143
+RECTANGLE         87        57   0.00000  D345
+RECTANGLE     88.583   125.984   0.00000  D106
+RECTANGLE         90        50   0.00000  D86
+RECTANGLE       90.5      78.7   0.00000  D342
+RECTANGLE         91        22   0.00000  D208
+RECTANGLE         94        25   0.00000  D299
+RECTANGLE         94        63   0.00000  D96
+RECTANGLE     94.882   120.079   0.00000  D151
+RECTANGLE         96        44   0.00000  D245
+RECTANGLE     98.425    31.496   0.00000  D75
+RECTANGLE     98.425    35.433   0.00000  D250
+RECTANGLE     98.425    37.402   0.00000  D145
+RECTANGLE     98.425   125.984   0.00000  D306
+RECTANGLE        100    25.197   0.00000  D42
+RECTANGLE        100        64   0.00000  D78
+RECTANGLE        100       130   0.00000  D12
+RECTANGLE     101.13    53.886   0.00000  D226
+RECTANGLE        102       146   0.00000  D336
+RECTANGLE    102.362    31.496   0.00000  D325
+RECTANGLE    102.362    70.866   0.00000  D196
+RECTANGLE        103        60   0.00000  D28
+RECTANGLE        103       108   0.00000  D338
+RECTANGLE     103.15    32.283   0.00000  D323
+RECTANGLE    106.299    62.992   0.00000  D11
+RECTANGLE        108       103   0.00000  D339
+RECTANGLE        110        35   0.00000  D363
+RECTANGLE    110.236    51.181   0.00000  D177
+RECTANGLE    110.236   137.795   0.00000  D225
+RECTANGLE    112.205    49.213   0.00000  D206
+RECTANGLE        115        50   0.00000  D335
+RECTANGLE    120.079    94.882   0.00000  D150
+RECTANGLE    125.984    88.583   0.00000  D107
+RECTANGLE    125.984    98.425   0.00000  D305
+RECTANGLE        130       100   0.00000  D13
+RECTANGLE        130       325   0.00000  D278
+RECTANGLE    133.858    55.118   0.00000  D242
+RECTANGLE    137.795   110.236   0.00000  D224
+RECTANGLE        140        45   0.00000  D235
+RECTANGLE        140       280   0.00000  D83
+RECTANGLE        142        52   0.00000  D276
+RECTANGLE    145.669   212.598   0.00000  D283
+RECTANGLE        146       102   0.00000  D337
+RECTANGLE    149.606    41.339   0.00000  D320
+RECTANGLE    177.953   205.118   0.00000  D39
+RECTANGLE    205.118   177.953   0.00000  D40
+RECTANGLE    212.598   145.669   0.00000  D284
+RECTANGLE    213.386     57.48   0.00000  D285
+RECTANGLE    218.504   255.906   0.00000  D205
+RECTANGLE    255.906   218.504   0.00000  D204
+Wed Mar 30 13:19:56 2022				Page     7
+
+Photoplot log file
+Results from aperture table.
+
+RECTANGLE        280       140   0.00000  D84
+RECTANGLE        325       130   0.00000  D279
+RECTANGLE    356.299   423.228   0.00000  D319
+RECTANGLE    423.228   356.299   0.00000  D318
+OBLONG         7.874    19.685   0.00000  D160
+OBLONG            11        70   0.00000  D291
+OBLONG        11.811    25.591   0.00000  D172
+OBLONG        11.811    31.496   0.00000  D198
+OBLONG        11.811    33.465   0.00000  D217
+OBLONG        11.811    35.433   0.00000  D164
+OBLONG        11.811    59.055   0.00000  D74
+OBLONG            12      39.4   0.00000  D103
+OBLONG        17.717    33.465   0.00000  D282
+OBLONG        19.685     7.874   0.00000  D159
+OBLONG        19.685    61.024   0.00000  D230
+OBLONG            22        78   0.00000  D298
+OBLONG        23.622    61.024   0.00000  D311
+OBLONG            25        70   0.00000  D273
+OBLONG            25        94   0.00000  D302
+OBLONG        25.591    11.811   0.00000  D171
+OBLONG        25.591    51.181   0.00000  D115
+OBLONG        27.559    47.244   0.00000  D187
+OBLONG        30.512    61.024   0.00000  D112
+OBLONG        31.496    11.811   0.00000  D197
+OBLONG        31.496    51.181   0.00000  D180
+OBLONG        33.465    11.811   0.00000  D216
+OBLONG        33.465    17.717   0.00000  D281
+OBLONG        35.433    11.811   0.00000  D163
+OBLONG            36      78.7   0.00000  D237
+OBLONG          39.4        12   0.00000  D104
+OBLONG            40      78.7   0.00000  D240
+OBLONG        47.244    27.559   0.00000  D186
+OBLONG        51.181    25.591   0.00000  D114
+OBLONG        51.181    31.496   0.00000  D179
+OBLONG        55.118    70.866   0.00000  D331
+OBLONG        59.055    11.811   0.00000  D73
+OBLONG         59.37    118.74   0.00000  D22
+OBLONG        61.024    19.685   0.00000  D229
+OBLONG        61.024    23.622   0.00000  D310
+OBLONG        61.024    30.512   0.00000  D111
+OBLONG        66.929   133.858   0.00000  D16
+OBLONG        67.244   126.614   0.00000  D25
+OBLONG            70        11   0.00000  D290
+OBLONG            70        25   0.00000  D272
+OBLONG        70.866    55.118   0.00000  D332
+OBLONG        74.803   141.732   0.00000  D19
+OBLONG            78        22   0.00000  D297
+OBLONG          78.7        36   0.00000  D238
+OBLONG          78.7        40   0.00000  D241
+OBLONG            94        25   0.00000  D301
+OBLONG        118.74     59.37   0.00000  D21
+OBLONG       126.614    67.244   0.00000  D24
+Wed Mar 30 13:19:56 2022				Page     8
+
+Photoplot log file
+Results from aperture table.
+
+OBLONG       133.858    66.929   0.00000  D15
+OBLONG       141.732    74.803   0.00000  D18
+OBLONG           420       660   0.00000  D126
+OBLONG           660       420   0.00000  D125
+

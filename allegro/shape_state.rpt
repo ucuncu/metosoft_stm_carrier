@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Dynamic Status Report                                      )
+(                                                                     )
+(    Drawing          : METO_STM_CRY_V0_33.brd                        )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Mar 30 12:48:05 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 2 out of 4
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+       State: No Etch      Point on shape: (0.012 0.012)  Net: GND
+
+    Layer = BOTTOM
+       State: No Etch      Point on shape: (0.012 0.012)  Net: GND

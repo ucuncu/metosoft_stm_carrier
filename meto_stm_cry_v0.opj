@@ -1,0 +1,153 @@
+(ExpressProject "meto_stm_cry_v0"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\meto_stm_cry_v0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File" "allegro\METO_STM_CRY_V0_30.brd")
+    ("Allegro Netlist Output Board File" "allegro\METO_STM_CRY_V0_31.brd")
+    ("Allegro Netlist Remove Etch" "TRUE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "D:\PROJELER\PCB_DONANIM\METO_STM_CRY_V0\METO_STM_CRY_V0.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Value}\t{Description}")
+    (BOM_Header "Item\tQuantity\tReference\tValue\tPart\tDescription")
+    (BOM_Include_File
+       "D:\PROJELER\PCB_DONANIM\METO_STM_CRY_V0\METO_STM_CRY_V0.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\meto_stm_cry_v0.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (MPSSessionName "Hamit")
+  (PartMRUSelector
+    (5787956-1
+      (FullPartName "5787956-1.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\5787956\5787956-1.OLB")
+      (DeviceIndex "0"))
+    (MAX485ESA+
+      (FullPartName "MAX485ESA+.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\MAX485ESA\MAX485ESA+.OLB")
+      (DeviceIndex "0"))
+    (FH_2x20SG
+      (FullPartName "FH_2x20SG.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\LIB_FH-2X20SG\FH-2X20SG\ORCAD_ALLEGRO16\FH_2X20SG.OLB")
+      (DeviceIndex "0"))
+    (43841-0003
+      (FullPartName "43841-0003.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\43841-003\43841-0003\CAPTURE\43841-0003.OLB")
+      (DeviceIndex "0"))
+    (RASPBERRY_PI_3_MODEL_B+
+      (FullPartName "RASPBERRY_PI_3_MODEL_B+.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\RASPERYPI3\RASPBERRY_PI_3_MODEL_B+.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (282811-3
+      (FullPartName "282811-3.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\282811-3\282811-3.OLB")
+      (DeviceIndex "0"))
+    (282811-4
+      (FullPartName "282811-4.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\282811-4\282811-4.OLB")
+      (DeviceIndex "0"))
+    (ARDUINO_NANO
+      (FullPartName "ARDUINO_NANO.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\ARDUINONANO\ARDUINO_NANO.OLB")
+      (DeviceIndex "0"))
+    (CON40
+      (FullPartName "CON40.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CON40A
+      (FullPartName "CON40A.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "d:\projeler\pcb_donanim\meto_stm_cry_v0\meto_stm_cry_v0.dsn")
+      (Path "Design Resources"
+         "d:\projeler\pcb_donanim\meto_stm_cry_v0\meto_stm_cry_v0.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "d:\projeler\pcb_donanim\meto_stm_cry_v0\meto_stm_cry_v0.dsn"
+         "Design Cache")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 326"))
+      (Tab 0)))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library\my_personal_library\5787956")
+  (ISPCBBASICLICENSE "false"))

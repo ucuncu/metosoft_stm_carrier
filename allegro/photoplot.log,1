@@ -1,0 +1,452 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : METO_STM_CRY_V0_33.brd                        )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Mar 30 13:20:09 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < DRL >
+     TO FILE < D:/PROJELER/PCB_DONANIM/METO_STM_CRY_V0/allegro/Meto_stm_cry_v0_0DRL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     Meto_stm_cry_v0_0DRL created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOL >
+     TO FILE < D:/PROJELER/PCB_DONANIM/METO_STM_CRY_V0/allegro/Meto_stm_cry_v0_0BOL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+
+     Meto_stm_cry_v0_0BOL created with warnings
+
+
+================================================================
+     PROCESSING FILM < SST >
+     TO FILE < D:/PROJELER/PCB_DONANIM/METO_STM_CRY_V0/allegro/Meto_stm_cry_v0_0SST.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (64.999 -2592.392)
+           ... using undefined line width of 1.000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 1.000
+
+    WARNING: 0 width line found at (1615.500 -2210.697)
+           ... using undefined line width of 1.000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 1.000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00100                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01575                                  DARK 
+
+     Meto_stm_cry_v0_0SST created with warnings
+
+
+================================================================
+     PROCESSING FILM < SSB >
+     TO FILE < D:/PROJELER/PCB_DONANIM/METO_STM_CRY_V0/allegro/Meto_stm_cry_v0_0SSB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     Meto_stm_cry_v0_0SSB created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMT >
+     TO FILE < D:/PROJELER/PCB_DONANIM/METO_STM_CRY_V0/allegro/Meto_stm_cry_v0_0SMT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05150                                  DARK 
+  CIRCLE     0.06693                                  DARK 
+  CIRCLE     0.07300                                  DARK 
+  CIRCLE     0.07700                                  DARK 
+  CIRCLE     0.08268                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.13500                                  DARK 
+  SQUARE     0.03200                     0.000 NO     DARK 
+  SQUARE     0.05937                     0.000 NO     DARK 
+  SQUARE     0.06693                     0.000 NO     DARK 
+  SQUARE     0.07300                     0.000 NO     DARK 
+  SQUARE     0.07700                     0.000 NO     DARK 
+  SQUARE     0.08268                     0.000 NO     DARK 
+  RECTANGLE  0.01575     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.01575       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03700       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03700      90.000 NO     DARK 
+  RECTANGLE  0.04100     x 0.05700       0.000 NO     DARK 
+  RECTANGLE  0.04100     x 0.07100       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.06220     x 0.02323       0.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.10630       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.06400     x 0.10000       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.13000      90.000 NO     DARK 
+  RECTANGLE  0.10300     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.10300     x 0.10800       0.000 NO     DARK 
+  RECTANGLE  0.12008     x 0.09488      90.000 NO     DARK 
+  OBLONG     0.12661     x 0.06724      90.000 NO     DARK 
+  OBLONG     0.14173     x 0.07480       0.000 NO     DARK 
+  PAD SHAPE  PS_R100_152_D2500           0.000 NO     DARK 
+  PAD SHAPE  PS_R197_59_D2500            0.000 NO     DARK 
+  PAD SHAPE  PS_R126_59_D2500            0.000 NO     DARK 
+  PAD SHAPE  PS_R320_270_D150           90.000 NO     DARK 
+  PAD SHAPE  PS_R126_59_D2500          270.000 NO     DARK 
+
+     Meto_stm_cry_v0_0SMT created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMB >
+     TO FILE < D:/PROJELER/PCB_DONANIM/METO_STM_CRY_V0/allegro/Meto_stm_cry_v0_0SMB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.05150                                  DARK 
+  CIRCLE     0.06693                                  DARK 
+  CIRCLE     0.07300                                  DARK 
+  CIRCLE     0.07700                                  DARK 
+  CIRCLE     0.08268                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.13500                                  DARK 
+  SQUARE     0.05937                     0.000 NO     DARK 
+  SQUARE     0.06693                     0.000 NO     DARK 
+  SQUARE     0.07300                     0.000 NO     DARK 
+  SQUARE     0.07700                     0.000 NO     DARK 
+  SQUARE     0.08268                     0.000 NO     DARK 
+  OBLONG     0.12661     x 0.06724      90.000 NO     DARK 
+  OBLONG     0.14173     x 0.07480       0.000 NO     DARK 
+
+     Meto_stm_cry_v0_0SMB created with warnings
+
+
+================================================================
+     PROCESSING FILM < PMT >
+     TO FILE < D:/PROJELER/PCB_DONANIM/METO_STM_CRY_V0/allegro/Meto_stm_cry_v0_0PMT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  SQUARE     0.03200                     0.000 NO     DARK 
+  RECTANGLE  0.01575     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.01575       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.03300       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.03300      90.000 NO     DARK 
+  RECTANGLE  0.03700     x 0.05300       0.000 NO     DARK 
+  RECTANGLE  0.03700     x 0.06700       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.06220     x 0.02323       0.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.10630       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.06400     x 0.10000       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.13000      90.000 NO     DARK 
+  RECTANGLE  0.10300     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.10300     x 0.10800       0.000 NO     DARK 
+  PAD SHAPE  PS_R197_59_D2500            0.000 NO     DARK 
+  PAD SHAPE  PS_R100_152_D2500           0.000 NO     DARK 
+  PAD SHAPE  PS_R126_59_D2500            0.000 NO     DARK 
+  PAD SHAPE  PS_R320_270_D150           90.000 NO     DARK 
+  PAD SHAPE  PS_R126_59_D2500          270.000 NO     DARK 
+
+     Meto_stm_cry_v0_0PMT created with warnings
+
+
+================================================================
+     PROCESSING FILM < PMB >
+     TO FILE < D:/PROJELER/PCB_DONANIM/METO_STM_CRY_V0/allegro/Meto_stm_cry_v0_0PMB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     Meto_stm_cry_v0_0PMB created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < D:/PROJELER/PCB_DONANIM/METO_STM_CRY_V0/allegro/Meto_stm_cry_v0_0BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.05150                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06024                                  DARK 
+  CIRCLE     0.06100                                  DARK 
+  CIRCLE     0.06299                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07677                                  DARK 
+  CIRCLE     0.08268                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.13500                                  DARK 
+  SQUARE     0.05150                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06100                     0.000 NO     DARK 
+  SQUARE     0.06299                     0.000 NO     DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07677                     0.000 NO     DARK 
+  SQUARE     0.08268                     0.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+  OBLONG     0.13386     x 0.06693       0.000 NO     DARK 
+
+     Meto_stm_cry_v0_0BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < D:/PROJELER/PCB_DONANIM/METO_STM_CRY_V0/allegro/Meto_stm_cry_v0_0TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                1.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.05150                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.06024                                  DARK 
+  CIRCLE     0.06100                                  DARK 
+  CIRCLE     0.06299                                  DARK 
+  CIRCLE     0.06500                                  DARK 
+  CIRCLE     0.07677                                  DARK 
+  CIRCLE     0.08268                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.13500                                  DARK 
+  SQUARE     0.03200                     0.000 NO     DARK 
+  SQUARE     0.05150                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.06100                     0.000 NO     DARK 
+  SQUARE     0.06299                     0.000 NO     DARK 
+  SQUARE     0.06500                     0.000 NO     DARK 
+  SQUARE     0.07677                     0.000 NO     DARK 
+  SQUARE     0.08268                     0.000 NO     DARK 
+  RECTANGLE  0.01575     x 0.02362       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.01575       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.03300       0.000 NO     DARK 
+  RECTANGLE  0.02800     x 0.03300      90.000 NO     DARK 
+  RECTANGLE  0.03700     x 0.05300       0.000 NO     DARK 
+  RECTANGLE  0.03700     x 0.06700       0.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.06220     x 0.02323       0.000 NO     DARK 
+  RECTANGLE  0.06299     x 0.10630       0.000 NO     DARK 
+  RECTANGLE  0.06300     x 0.05900      90.000 NO     DARK 
+  RECTANGLE  0.06400     x 0.10000       0.000 NO     DARK 
+  RECTANGLE  0.10000     x 0.13000      90.000 NO     DARK 
+  RECTANGLE  0.10300     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.10300     x 0.10800       0.000 NO     DARK 
+  RECTANGLE  0.12008     x 0.09488      90.000 NO     DARK 
+  OBLONG     0.11874     x 0.05937      90.000 NO     DARK 
+  OBLONG     0.13386     x 0.06693       0.000 NO     DARK 
+  PAD SHAPE  PS_R126_59_D2500            0.000 NO     DARK 
+  PAD SHAPE  PS_R197_59_D2500            0.000 NO     DARK 
+  PAD SHAPE  PS_R100_152_D2500           0.000 NO     DARK 
+  PAD SHAPE  PS_R320_270_D150           90.000 NO     DARK 
+  PAD SHAPE  PS_R126_59_D2500          270.000 NO     DARK 
+
+     Meto_stm_cry_v0_0TOP created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        Meto_stm_cry_v0_0DRL created with warnings
+        Meto_stm_cry_v0_0BOL created with warnings
+        Meto_stm_cry_v0_0SST created with warnings
+        Meto_stm_cry_v0_0SSB created with warnings
+        Meto_stm_cry_v0_0SMT created with warnings
+        Meto_stm_cry_v0_0SMB created with warnings
+        Meto_stm_cry_v0_0PMT created with warnings
+        Meto_stm_cry_v0_0PMB created with warnings
+        Meto_stm_cry_v0_0BOTTOM created with warnings
+        Meto_stm_cry_v0_0TOP created with warnings
+
+ ARTWORK had warnings

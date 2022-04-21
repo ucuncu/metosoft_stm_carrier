@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : METO_STM_CRY_V0_33.brd                        )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Wed Mar 30 12:47:36 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 2
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (3724.998 -283.804)  Net: GND
+	Point on shape: (3913.390 -119.584)  Net: GND
